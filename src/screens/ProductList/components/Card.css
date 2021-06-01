@@ -1,0 +1,42 @@
+.card{
+
+    width:57%;
+    height: 220px;
+    margin-bottom: 20px;
+    background-color: #fff;
+
+}
+
+.des-container{
+    width:85%;
+    height:75%;
+    border-bottom: 1px solid #ccc;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-image{
+width:30%;
+height:90%;
+margin:auto;
+overflow:hidden;
+
+}
+.item-des{
+    width:70%;
+}
+
+.icon-container{
+    width:85%;
+    height:25%;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    width:10%;
+    height:40%;
+    margin-top: 2%;
+}
+

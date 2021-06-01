@@ -1,0 +1,55 @@
+.form-container{
+
+width:50%;
+margin :auto
+
+}
+.photo-input{
+
+    width:15%;
+    height:80px;
+    border: 1px solid #948e8e;
+    margin:auto;
+    border-radius: 10px;
+    margin-bottom:30px;
+    margin-top:20px
+}
+.camera-icon{
+    width:98%;
+    height:98%;
+    margin:auto;
+    fill:#948e8e
+}
+.input-file{
+    width:25%;
+    margin:auto;
+    height:30px
+}
+.input-label{
+
+    font-size: 30px;
+    color: #948e8e;
+
+}
+.input-box{
+    margin-top: 20px;
+    width:50%;
+    height:35px;
+    border : 1px solid #948e8e; 
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding-left:5px;
+}
+.submit-button{
+    width:40%;
+    height:30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border: 2px solid #948e8e;
+    
+
+    
+
+}

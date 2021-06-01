@@ -1,0 +1,17 @@
+.toggle-button{
+  
+    width:25%;
+    height:50px;
+    background-color:#1b9e47;
+    margin:auto;
+    border-radius: 50px;
+    text-align: center;
+   padding-top: 10px;
+}
+.button-text{
+
+    margin-top: auto;
+    color: white;
+    font-weight: 500;
+    font-size: 1.4rem;
+}
